@@ -4,3 +4,4 @@ Requests==2.31.0
 streamlit==1.23.1
 streamlit_lottie==0.0.5
 pickle-mixin==1.0.2
+sklearn==1.0
